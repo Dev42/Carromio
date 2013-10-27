@@ -1,0 +1,7 @@
+parameters:
+#    dev32_carrom_kernel.example.class: Dev42\Carrom\Core\KernelBundle\Example
+
+services:
+#    dev32_carrom_kernel.example:
+#        class: %dev32_carrom_kernel.example.class%
+#        arguments: [@service_id, "plain_value", %parameter%]

@@ -1,0 +1,7 @@
+parameters:
+#    dev42_backend.example.class: Dev42\Carrom\Core\BackendBundle\Example
+
+services:
+#    dev42_backend.example:
+#        class: %dev42_backend.example.class%
+#        arguments: [@service_id, "plain_value", %parameter%]

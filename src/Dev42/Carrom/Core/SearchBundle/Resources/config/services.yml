@@ -1,0 +1,7 @@
+parameters:
+#    dev42_search.example.class: Dev42\Carrom\Core\SearchBundle\Example
+
+services:
+#    dev42_search.example:
+#        class: %dev42_search.example.class%
+#        arguments: [@service_id, "plain_value", %parameter%]

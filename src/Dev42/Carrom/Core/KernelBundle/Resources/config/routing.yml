@@ -1,0 +1,3 @@
+dev32_carrom_kernel_homepage:
+    pattern:  /hello/{name}
+    defaults: { _controller: Dev32CarromKernelBundle:Default:index }

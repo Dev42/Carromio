@@ -1,0 +1,7 @@
+parameters:
+#    dev42_user.example.class: Dev42\Carrom\Core\UserBundle\Example
+
+services:
+#    dev42_user.example:
+#        class: %dev42_user.example.class%
+#        arguments: [@service_id, "plain_value", %parameter%]

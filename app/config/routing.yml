@@ -1,0 +1,16 @@
+dev42_backend:
+    resource: "@Dev42BackendBundle/Resources/config/routing.yml"
+    prefix:   /
+
+dev42_user:
+    resource: "@Dev42UserBundle/Resources/config/routing.yml"
+    prefix:   /
+
+dev42_search:
+    resource: "@Dev42SearchBundle/Resources/config/routing.yml"
+    prefix:   /
+
+dev42_kernel:
+    resource: "@Dev42KernelBundle/Resources/config/routing.yml"
+    prefix:   /
+
